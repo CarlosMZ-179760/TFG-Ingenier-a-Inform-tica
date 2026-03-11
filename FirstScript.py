@@ -5,9 +5,10 @@ Un primer script de prueba breve para el detector ensemble
 
 import numpy as np
 import matplotlib.pyplot as plt
+import sys
 
 import capymoa.drift.detectors.ensemble_detector as ensemble
-
+print(sys.path)
 data_stream_generator = np.random.default_rng(seed=179760)
 data_stream=np.absolute(data_stream_generator.normal(loc=0, scale=1, size=2000))
 for i in range(999, 2000):
