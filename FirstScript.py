@@ -12,34 +12,41 @@ import capymoa.drift.detectors.ensemble_detector as ensemble
 import capymoa.stream.generator as streamGen
 import os, pprint, sys
 
-generator=streamGen.GenericChangeGenerator(duration_change=1000, instance_random_seed=3)
+generator=streamGen.GenericChangeGenerator(duration_change=1000, instance_random_seed=3, duration_stable_concept=5000)
 i=generator.next_instance()
 #print("First instance:", i)
 #print(type(generator.next_instance()))
 t=np.array([])
-for i in range (10000):
-    y=np.array([generator.next_instance().x[0]])
+d=np.array([])
+for i in range (59000):
+    y=generator.next_instance().x
     #print(y)
-    t=np.append(t, y)
-#print(t)
-#plt.plot(t)
-window_size = 100
+    #if (y[1]==1):
+    #    print(y[1])
+    
+    #print(y)
+    t=np.append(t, y[0])
+    d=np.append(d,y[1])
+    #print("j=",i)
+print(sum(d))
+plt.plot(d)
+window_size = 1000
 
 i = 0
 # Initialize an empty list to store moving averages
-moving_averages = []
+moving_averages = np.zeros(t.shape)
 
 # Loop through the array t o
 #consider every window of size 3
 while i < len(t) - window_size + 1:
-
+    #print("i=",i)
     # Calculate the average of current window
-    window_average = round(np.sum(t[
-      i:i+window_size]) / window_size, 2)
+    window_average = np.sum(t[
+      i:i+window_size]) / window_size
     
     # Store the average of current
     # window in moving average list
-    moving_averages.append(window_average)
+    moving_averages[i+window_size-1]=window_average
     
     # Shift window to right by one position
     i += 1
