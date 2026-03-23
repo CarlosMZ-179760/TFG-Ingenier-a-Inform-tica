@@ -45,9 +45,9 @@ low_error_rate=np.array([#0.01,
 magnitude_of_change=np.array([#0.05, 
                               0.3])
 stable_concept_duration=np.array([#500,
-                                  1000])
+                                  100000])
 duration_of_change=np.array([#0,
-                             100])
+                             1000])
 noise_stable_concept=np.array([#0,
                                0.1])
 valid_delay=500
