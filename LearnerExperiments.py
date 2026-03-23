@@ -45,7 +45,7 @@ magnitude_of_change=np.array([0.05, 0.3])
 stable_concept_duration=np.array([500,100000])
 duration_of_change=np.array([0,1000])
 noise_stable_concept=np.array([0,0.1])
-
+valid_delay=500
 
 folderpath = Path("Resultados")
 folderpath.mkdir(parents=True, exist_ok=True)
@@ -56,16 +56,17 @@ for detectorName in all_detectors:
     for stream_head in itertools.product(seeds, low_error_rate, magnitude_of_change, noise_stable_concept):
         print(k,j)
         for stream_tail in itertools.product(stable_concept_duration, duration_of_change):
+            stream_duration=2*drifts*stream_tail[0]+2*drifts*stream_tail[1]+valid_delay
             stream=stream_head+stream_tail
             generator=streamGen.GenericChangeGenerator(instance_random_seed=stream[0], low_error_level=stream[1], incr_error_level=stream[2], noise_stable_concept=stream[3], duration_stable_concept=stream[4], duration_change=stream[5])
             detector = getattr(detectors, detectorName)()
             #print(detector)
             detected_drifts=0
             #print(stream[0],stream[3], stream[4], 2*drifts*stream[3]+(2*drifts+1)*stream[4])
-            drift_eval = EvaluateDriftDetector(max_delay=500)
+            drift_eval = EvaluateDriftDetector(max_delay=valid_delay)
             trues=[]
             i=0
-            while generator.has_more_instances() and detector.idx<=(2*drifts+1)*stream[3]+2*(drifts+1)*stream[4]:
+            while generator.has_more_instances() and detector.idx<=stream_duration:
                 stream_elem=generator.next_instance().x
                 y=stream_elem[1]
                 if (y==1):

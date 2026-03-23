@@ -58,16 +58,18 @@ folderpath.mkdir(parents=True, exist_ok=True)
 for stream_head in itertools.product(seeds, low_error_rate, magnitude_of_change, noise_stable_concept):
     for stream_tail in itertools.product(stable_concept_duration, duration_of_change):
         stream=stream_head+stream_tail
+        stream_duration=2*drifts*stream_tail[0]+2*drifts*stream_tail[1]+valid_delay
         resultsDict={f"{detectorName}": np.array([]) for detectorName in all_detectors}
         for detectorName in all_detectors:
             generator=streamGen.GenericChangeGenerator(instance_random_seed=stream[0], low_error_level=stream[1], incr_error_level=stream[2], noise_stable_concept=stream[3], duration_stable_concept=stream[4], duration_change=stream[5])
             detector = getattr(detectors, detectorName)()
             #print(detector)
             detected_drifts=0
-            #print(stream[0],stream[3], stream[4], 2*drifts*stream[3]+(2*drifts+1)*stream[4])
+            #print(stream[0],stream[4], stream[5], 2*drifts*stream[4]+2*drifts*stream[5]+valid_delay)
             drift_eval = EvaluateDriftDetector(max_delay=valid_delay)
             trues=np.array([])
-            while generator.has_more_instances() and detector.idx<=(2*drifts+1)*stream[3]+2*(drifts+1)*stream[4]:
+            i=0
+            while generator.has_more_instances() and detector.idx<=stream_duration:
                 stream_elem=generator.next_instance().x
                 y=stream_elem[1]
                 #print("y=", y)
@@ -77,14 +79,15 @@ for stream_head in itertools.product(seeds, low_error_rate, magnitude_of_change,
                 if(detector.detected_warning()):
                     resultsDict[detectorName]=np.append(resultsDict[detectorName],[1])
                 elif(detector.detected_change()):
+                    #print("Change detected by: ",detectorName)
                     resultsDict[detectorName]=np.append(resultsDict[detectorName],[2])
                 else:
                     resultsDict[detectorName]=np.append(resultsDict[detectorName],[0])            
             #print(resultsDict)
-            resultsDict[detectorName] = np.array([max(resultsDict[detectorName][j-min(j,valid_delay):j+1]) for j in range(len(resultsDict[detectorName]))])
+            #resultsDict[detectorName] = np.array([max(resultsDict[detectorName][j-min(j,valid_delay):j+1]) for j in range(len(resultsDict[detectorName]))])
         #print(resultsDict)
         instance_eval=pd.DataFrame.from_dict(data=resultsDict)
-        trues=np.array([max(trues[j-min(j,valid_delay):j+1]) for j in range(len(trues))])
+        #trues=np.array([max(trues[j-min(j,valid_delay):j+1]) for j in range(len(trues))])
         instance_eval["Ground-truth"]=trues
         instance_eval.astype("int32")
         diff = (instance_eval.values[:-1]  == instance_eval.values[1:])
@@ -100,7 +103,7 @@ for stream_head in itertools.product(seeds, low_error_rate, magnitude_of_change,
 # make array len == number of rows in original DF
         #print(diff, np.shape(diff))
         repeated = np.insert(np.all(diff, axis=1), 0, True)
-        repeated=np.reshape(repeated, (4001,1))
+        repeated=np.reshape(repeated, (np.size(repeated),1))
         repeated=np.repeat(repeated, 7, axis=1)
         #print(np.transpose(repeated[121:130]))
 # [False,  True,  True, False, False, False,  True]
@@ -119,5 +122,5 @@ for stream_head in itertools.product(seeds, low_error_rate, magnitude_of_change,
         #         instance_eval["HDDMWeighted"]!=instance_eval["HDDMWeighted"].shift() and
         #         instance_eval["Ground-truth"]!=instance_eval["Ground-truth"].shift())
         #purged_eval=instance_eval[filterdups]
-        filepath=folderpath.joinpath("results"+ ".csv")
+        filepath=folderpath.joinpath("results-nomax"+ ".csv")
         purged_eval.to_csv(filepath)
