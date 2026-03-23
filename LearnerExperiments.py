@@ -39,7 +39,7 @@ all_detectors = [
 ]
 reps=15
 drifts=10
-seeds=np.arange(1,reps+1) #Número de semillas con el que se ejecutan las pruebas
+seeds=np.arange(1+15,reps+15+1) #Número de semillas con el que se ejecutan las pruebas
 low_error_rate=np.array([0.01, 0.2])
 magnitude_of_change=np.array([0.05, 0.3])
 stable_concept_duration=np.array([500,100000])
@@ -87,5 +87,7 @@ for detectorName in all_detectors:
         j+=1
     k+=1
     detectorResults=pd.concat(frames)
-    filepath=folderpath.joinpath(detectorName+ ".csv")
+    filepath=folderpath.joinpath(detectorName+ "-2.csv")
     detectorResults.to_csv(filepath)
+
+    
