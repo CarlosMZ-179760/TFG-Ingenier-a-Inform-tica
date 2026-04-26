@@ -1,0 +1,1169 @@
+Hora de inicio 2026-04-25 14:51:34.300730
+0 0
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+210500
+Número y fracción de estados no visitados 193 0.7942386831275721
+Duración del procesamiento de stream 0:00:31.794052 6620.7352243117675
+Tiempo total transcurrido 0:00:31.794052
+Hora del sistema 2026-04-25 14:52:06.094782
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+310500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:00:45.322744 6850.864987344985
+Tiempo total transcurrido 0:01:17.116796
+Hora del sistema 2026-04-25 14:52:51.417526
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+410500
+Número y fracción de estados no visitados 180 0.7407407407407407
+Duración del procesamiento de stream 0:00:58.091113 7066.4853675638815
+Tiempo total transcurrido 0:02:15.207909
+Hora del sistema 2026-04-25 14:53:49.508639
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+252500
+Número y fracción de estados no visitados 206 0.8477366255144033
+Duración del procesamiento de stream 0:00:37.569395 6720.896091086907
+Tiempo total transcurrido 0:02:52.777304
+Hora del sistema 2026-04-25 14:54:27.078034
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+372500
+Número y fracción de estados no visitados 191 0.7860082304526749
+Duración del procesamiento de stream 0:00:53.914079 6909.1414878848245
+Tiempo total transcurrido 0:03:46.691383
+Hora del sistema 2026-04-25 14:55:20.992113
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+492500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:01:09.664277 7069.6204885611605
+Tiempo total transcurrido 0:04:56.355660
+Hora del sistema 2026-04-25 14:56:30.656390
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+4200500
+Número y fracción de estados no visitados 195 0.8024691358024691
+Duración del procesamiento de stream 0:10:37.530605 6588.703298408709
+Tiempo total transcurrido 0:15:33.886265
+Hora del sistema 2026-04-25 15:07:08.186995
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+6200500
+Número y fracción de estados no visitados 187 0.7695473251028807
+Duración del procesamiento de stream 0:16:50.303909 6137.262208692494
+Tiempo total transcurrido 0:32:24.190174
+Hora del sistema 2026-04-25 15:23:58.490904
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+8200500
+Número y fracción de estados no visitados 186 0.7654320987654321
+Duración del procesamiento de stream 0:22:59.258878 5945.584350264374
+Tiempo total transcurrido 0:55:23.449052
+Hora del sistema 2026-04-25 15:46:57.749782
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+4242500
+Número y fracción de estados no visitados 175 0.720164609053498
+Duración del procesamiento de stream 0:10:47.483295 6552.292596212849
+Tiempo total transcurrido 1:06:10.932347
+Hora del sistema 2026-04-25 15:57:45.233077
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+6262500
+Número y fracción de estados no visitados 167 0.6872427983539094
+Duración del procesamiento de stream 0:16:29.438132 6329.349756655629
+Tiempo total transcurrido 1:22:40.370479
+Hora del sistema 2026-04-25 16:14:14.671209
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+8282500
+Número y fracción de estados no visitados 162 0.6666666666666666
+Duración del procesamiento de stream 0:22:57.945020 6010.762316191686
+Tiempo total transcurrido 1:45:38.315499
+Hora del sistema 2026-04-25 16:37:12.616229
+Hora estimada de finalización 2026-04-26 04:56:40.824722
+12 1
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+210500
+Número y fracción de estados no visitados 193 0.7942386831275721
+Duración del procesamiento de stream 0:00:30.745829 6846.4571243143255
+Tiempo total transcurrido 1:46:09.061328
+Hora del sistema 2026-04-25 16:37:43.362058
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+310500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:00:46.199680 6720.8257719533985
+Tiempo total transcurrido 1:46:55.261008
+Hora del sistema 2026-04-25 16:38:29.561738
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+410500
+Número y fracción de estados no visitados 180 0.7407407407407407
+Duración del procesamiento de stream 0:01:01.795707 6642.856274789445
+Tiempo total transcurrido 1:47:57.056715
+Hora del sistema 2026-04-25 16:39:31.357445
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+252500
+Número y fracción de estados no visitados 206 0.8477366255144033
+Duración del procesamiento de stream 0:00:38.850238 6499.316683722762
+Tiempo total transcurrido 1:48:35.906953
+Hora del sistema 2026-04-25 16:40:10.207683
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+372500
+Número y fracción de estados no visitados 191 0.7860082304526749
+Duración del procesamiento de stream 0:00:55.789206 6676.91882906525
+Tiempo total transcurrido 1:49:31.696159
+Hora del sistema 2026-04-25 16:41:05.996889
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+492500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:01:11.139074 6923.058908526136
+Tiempo total transcurrido 1:50:42.835233
+Hora del sistema 2026-04-25 16:42:17.135963
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+4200500
+Número y fracción de estados no visitados 195 0.8024691358024691
+Duración del procesamiento de stream 0:10:27.748083 6691.378458578264
+Tiempo total transcurrido 2:01:10.583316
+Hora del sistema 2026-04-25 16:52:44.884046
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+6200500
+Número y fracción de estados no visitados 187 0.7695473251028807
+Duración del procesamiento de stream 0:16:01.191358 6450.848676897905
+Tiempo total transcurrido 2:17:11.774674
+Hora del sistema 2026-04-25 17:08:46.075404
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+8200500
+Número y fracción de estados no visitados 186 0.7654320987654321
+Duración del procesamiento de stream 0:21:09.688282 6458.671877386043
+Tiempo total transcurrido 2:38:21.462956
+Hora del sistema 2026-04-25 17:29:55.763686
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+4242500
+Número y fracción de estados no visitados 175 0.720164609053498
+Duración del procesamiento de stream 0:10:25.079504 6787.136632782635
+Tiempo total transcurrido 2:48:46.542460
+Hora del sistema 2026-04-25 17:40:20.843190
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+6262500
+Número y fracción de estados no visitados 167 0.6872427983539094
+Duración del procesamiento de stream 0:15:49.042632 6598.755196910901
+Tiempo total transcurrido 3:04:35.585092
+Hora del sistema 2026-04-25 17:56:09.885822
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+8282500
+Número y fracción de estados no visitados 162 0.6666666666666666
+Duración del procesamiento de stream 0:22:12.148299 6217.400875125841
+Tiempo total transcurrido 3:26:47.733391
+Hora del sistema 2026-04-25 18:18:22.034121
+Hora estimada de finalización 2026-04-26 04:38:45.234294
+24 2
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+210500
+Número y fracción de estados no visitados 193 0.7942386831275721
+Duración del procesamiento de stream 0:00:32.109865 6555.617720597705
+Tiempo total transcurrido 3:27:19.843256
+Hora del sistema 2026-04-25 18:18:54.143986
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+310500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:00:44.894417 6916.2274676604
+Tiempo total transcurrido 3:28:04.737673
+Hora del sistema 2026-04-25 18:19:39.038403
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+410500
+Número y fracción de estados no visitados 180 0.7407407407407407
+Duración del procesamiento de stream 0:00:59.315229 6920.651018644807
+Tiempo total transcurrido 3:29:04.052902
+Hora del sistema 2026-04-25 18:20:38.353632
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+252500
+Número y fracción de estados no visitados 206 0.8477366255144033
+Duración del procesamiento de stream 0:00:38.211513 6607.956089045729
+Tiempo total transcurrido 3:29:42.264415
+Hora del sistema 2026-04-25 18:21:16.565145
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+372500
+Número y fracción de estados no visitados 191 0.7860082304526749
+Duración del procesamiento de stream 0:00:54.500356 6834.817739539169
+Tiempo total transcurrido 3:30:36.764771
+Hora del sistema 2026-04-25 18:22:11.065501
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+492500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:01:14.413292 6618.441232246519
+Tiempo total transcurrido 3:31:51.178063
+Hora del sistema 2026-04-25 18:23:25.478793
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+4200500
+Número y fracción de estados no visitados 195 0.8024691358024691
+Duración del procesamiento de stream 0:10:44.640305 6516.036877340457
+Tiempo total transcurrido 3:42:35.818368
+Hora del sistema 2026-04-25 18:34:10.119098
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+6200500
+Número y fracción de estados no visitados 187 0.7695473251028807
+Duración del procesamiento de stream 0:15:56.609652 6481.745178962506
+Tiempo total transcurrido 3:58:32.428020
+Hora del sistema 2026-04-25 18:50:06.728750
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+8200500
+Número y fracción de estados no visitados 186 0.7654320987654321
+Duración del procesamiento de stream 0:22:28.981414 6079.031122959564
+Tiempo total transcurrido 4:21:01.409434
+Hora del sistema 2026-04-25 19:12:35.710164
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+4242500
+Número y fracción de estados no visitados 175 0.720164609053498
+Duración del procesamiento de stream 0:10:47.141643 6555.751813981162
+Tiempo total transcurrido 4:31:48.551077
+Hora del sistema 2026-04-25 19:23:22.851807
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+6262500
+Número y fracción de estados no visitados 167 0.6872427983539094
+Duración del procesamiento de stream 0:15:55.769979 6552.308753778088
+Tiempo total transcurrido 4:47:44.321056
+Hora del sistema 2026-04-25 19:39:18.621786
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+8282500
+Número y fracción de estados no visitados 162 0.6666666666666666
+Duración del procesamiento de stream 0:21:32.432826 6408.456852364101
+Tiempo total transcurrido 5:09:16.753882
+Hora del sistema 2026-04-25 20:00:51.054612
+Hora estimada de finalización 2026-04-26 04:36:18.977749
+36 3
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+210500
+Número y fracción de estados no visitados 193 0.7942386831275721
+Duración del procesamiento de stream 0:00:31.267411 6732.24911394167
+Tiempo total transcurrido 5:09:48.021293
+Hora del sistema 2026-04-25 20:01:22.322023
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+310500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:00:44.497200 6977.967152989401
+Tiempo total transcurrido 5:10:32.518493
+Hora del sistema 2026-04-25 20:02:06.819223
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+410500
+Número y fracción de estados no visitados 180 0.7407407407407407
+Duración del procesamiento de stream 0:00:58.284381 7043.053266706221
+Tiempo total transcurrido 5:11:30.802874
+Hora del sistema 2026-04-25 20:03:05.103604
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+252500
+Número y fracción de estados no visitados 206 0.8477366255144033
+Duración del procesamiento de stream 0:00:37.456790 6741.100879173042
+Tiempo total transcurrido 5:12:08.259664
+Hora del sistema 2026-04-25 20:03:42.560394
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+372500
+Número y fracción de estados no visitados 191 0.7860082304526749
+Duración del procesamiento de stream 0:00:52.543358 7089.383209957765
+Tiempo total transcurrido 5:13:00.803022
+Hora del sistema 2026-04-25 20:04:35.103752
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+492500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:01:11.984320 6841.767762757223
+Tiempo total transcurrido 5:14:12.787342
+Hora del sistema 2026-04-25 20:05:47.088072
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+4200500
+Número y fracción de estados no visitados 195 0.8024691358024691
+Duración del procesamiento de stream 0:10:29.625972 6671.421108403704
+Tiempo total transcurrido 5:24:42.413314
+Hora del sistema 2026-04-25 20:16:16.714044
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+6200500
+Número y fracción de estados no visitados 187 0.7695473251028807
+Duración del procesamiento de stream 0:15:23.488509 6714.21456744948
+Tiempo total transcurrido 5:40:05.901823
+Hora del sistema 2026-04-25 20:31:40.202553
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+8200500
+Número y fracción de estados no visitados 186 0.7654320987654321
+Duración del procesamiento de stream 0:20:56.281048 6527.599865535821
+Tiempo total transcurrido 6:01:02.182871
+Hora del sistema 2026-04-25 20:52:36.483601
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+4242500
+Número y fracción de estados no visitados 175 0.720164609053498
+Duración del procesamiento de stream 0:10:23.516008 6804.155700201364
+Tiempo total transcurrido 6:11:25.698879
+Hora del sistema 2026-04-25 21:02:59.999609
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+6262500
+Número y fracción de estados no visitados 167 0.6872427983539094
+Duración del procesamiento de stream 0:15:31.140461 6725.623321399198
+Tiempo total transcurrido 6:26:56.839340
+Hora del sistema 2026-04-25 21:18:31.140070
+Semilla: 6 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+8282500
+Número y fracción de estados no visitados 162 0.6666666666666666
+Duración del procesamiento de stream 0:21:08.255059 6530.626423466133
+Tiempo total transcurrido 6:48:05.094399
+Hora del sistema 2026-04-25 21:39:39.395129
+Hora estimada de finalización 2026-04-26 04:27:44.489528
+48 4
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+210500
+Número y fracción de estados no visitados 193 0.7942386831275721
+Duración del procesamiento de stream 0:00:30.456147 6911.576832092384
+Tiempo total transcurrido 6:48:35.550546
+Hora del sistema 2026-04-25 21:40:09.851276
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+310500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:00:44.388406 6995.069838732213
+Tiempo total transcurrido 6:49:19.938952
+Hora del sistema 2026-04-25 21:40:54.239682
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+410500
+Número y fracción de estados no visitados 180 0.7407407407407407
+Duración del procesamiento de stream 0:00:56.006222 7329.542778300596
+Tiempo total transcurrido 6:50:15.945174
+Hora del sistema 2026-04-25 21:41:50.245904
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+252500
+Número y fracción de estados no visitados 206 0.8477366255144033
+Duración del procesamiento de stream 0:00:35.953886 7022.884814175581
+Tiempo total transcurrido 6:50:51.899060
+Hora del sistema 2026-04-25 21:42:26.199790
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+372500
+Número y fracción de estados no visitados 191 0.7860082304526749
+Duración del procesamiento de stream 0:00:52.454061 7101.452068696835
+Tiempo total transcurrido 6:51:44.353121
+Hora del sistema 2026-04-25 21:43:18.653851
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+492500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:01:08.503237 7189.441281439007
+Tiempo total transcurrido 6:52:52.856358
+Hora del sistema 2026-04-25 21:44:27.157088
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+4200500
+Número y fracción de estados no visitados 195 0.8024691358024691
+Duración del procesamiento de stream 0:10:35.155308 6613.343141580106
+Tiempo total transcurrido 7:03:28.011666
+Hora del sistema 2026-04-25 21:55:02.312396
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+6200500
+Número y fracción de estados no visitados 187 0.7695473251028807
+Duración del procesamiento de stream 0:15:19.613715 6742.504922297729
+Tiempo total transcurrido 7:18:47.625381
+Hora del sistema 2026-04-25 22:10:21.926111
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+8200500
+Número y fracción de estados no visitados 186 0.7654320987654321
+Duración del procesamiento de stream 0:20:55.561257 6531.342022765202
+Tiempo total transcurrido 7:39:43.186638
+Hora del sistema 2026-04-25 22:31:17.487368
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+4242500
+Número y fracción de estados no visitados 175 0.720164609053498
+Duración del procesamiento de stream 0:10:25.950638 6777.690991026676
+Tiempo total transcurrido 7:50:09.137276
+Hora del sistema 2026-04-25 22:41:43.438006
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+6262500
+Número y fracción de estados no visitados 167 0.6872427983539094
+Duración del procesamiento de stream 0:17:32.185881 5951.895110061831
+Tiempo total transcurrido 8:07:41.323157
+Hora del sistema 2026-04-25 22:59:15.623887
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+8282500
+Número y fracción de estados no visitados 162 0.6666666666666666
+Duración del procesamiento de stream 0:21:00.711822 6569.701223916975
+Tiempo total transcurrido 8:28:42.034979
+Hora del sistema 2026-04-25 23:20:16.335709
+Hora estimada de finalización 2026-04-26 04:25:29.556696
+60 5
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+210500
+Número y fracción de estados no visitados 193 0.7942386831275721
+Duración del procesamiento de stream 0:00:30.808076 6832.62401715706
+Tiempo total transcurrido 8:29:12.843055
+Hora del sistema 2026-04-25 23:20:47.143785
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+310500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:00:42.313804 7338.030870493232
+Tiempo total transcurrido 8:29:55.156859
+Hora del sistema 2026-04-25 23:21:29.457589
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+410500
+Número y fracción de estados no visitados 180 0.7407407407407407
+Duración del procesamiento de stream 0:00:57.129781 7185.394251730109
+Tiempo total transcurrido 8:30:52.286640
+Hora del sistema 2026-04-25 23:22:26.587370
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+252500
+Número y fracción de estados no visitados 206 0.8477366255144033
+Duración del procesamiento de stream 0:00:35.608910 7090.92190690476
+Tiempo total transcurrido 8:31:27.895550
+Hora del sistema 2026-04-25 23:23:02.196280
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+372500
+Número y fracción de estados no visitados 191 0.7860082304526749
+Duración del procesamiento de stream 0:00:52.487295 7096.955558483248
+Tiempo total transcurrido 8:32:20.382845
+Hora del sistema 2026-04-25 23:23:54.683575
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+492500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:01:07.398150 7307.32223362214
+Tiempo total transcurrido 8:33:27.780995
+Hora del sistema 2026-04-25 23:25:02.081725
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+4200500
+Número y fracción de estados no visitados 195 0.8024691358024691
+Duración del procesamiento de stream 0:10:23.647350 6735.376972258441
+Tiempo total transcurrido 8:43:51.428345
+Hora del sistema 2026-04-25 23:35:25.729075
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+6200500
+Número y fracción de estados no visitados 187 0.7695473251028807
+Duración del procesamiento de stream 0:15:13.942535 6784.343394193816
+Tiempo total transcurrido 8:59:05.370880
+Hora del sistema 2026-04-25 23:50:39.671610
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+8200500
+Número y fracción de estados no visitados 186 0.7654320987654321
+Duración del procesamiento de stream 0:20:40.395367 6611.198508289816
+Tiempo total transcurrido 9:19:45.766247
+Hora del sistema 2026-04-26 00:11:20.066977
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+4242500
+Número y fracción de estados no visitados 175 0.720164609053498
+Duración del procesamiento de stream 0:10:26.936338 6767.034773473284
+Tiempo total transcurrido 9:30:12.702585
+Hora del sistema 2026-04-26 00:21:47.003315
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+6262500
+Número y fracción de estados no visitados 167 0.6872427983539094
+Duración del procesamiento de stream 0:15:28.969056 6741.3440303010475
+Tiempo total transcurrido 9:45:41.671641
+Hora del sistema 2026-04-26 00:37:15.972371
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.05 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+8282500
+Número y fracción de estados no visitados 162 0.6666666666666666
+Duración del procesamiento de stream 0:20:55.879124 6594.981827247891
+Tiempo total transcurrido 10:06:37.550765
+Hora del sistema 2026-04-26 00:58:11.851495
+Hora estimada de finalización 2026-04-26 04:20:24.368417
+72 6
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+210500
+Número y fracción de estados no visitados 193 0.7942386831275721
+Duración del procesamiento de stream 0:00:31.190114 6748.933331888431
+Tiempo total transcurrido 10:07:08.740879
+Hora del sistema 2026-04-26 00:58:43.041609
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+310500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:00:43.469959 7142.863879857811
+Tiempo total transcurrido 10:07:52.210838
+Hora del sistema 2026-04-26 00:59:26.511568
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+410500
+Número y fracción de estados no visitados 180 0.7407407407407407
+Duración del procesamiento de stream 0:00:57.463194 7143.703150228649
+Tiempo total transcurrido 10:08:49.674032
+Hora del sistema 2026-04-26 01:00:23.974762
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+252500
+Número y fracción de estados no visitados 206 0.8477366255144033
+Duración del procesamiento de stream 0:00:36.267549 6962.146794094081
+Tiempo total transcurrido 10:09:25.941581
+Hora del sistema 2026-04-26 01:01:00.242311
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+372500
+Número y fracción de estados no visitados 191 0.7860082304526749
+Duración del procesamiento de stream 0:00:50.730187 7342.768123444922
+Tiempo total transcurrido 10:10:16.671768
+Hora del sistema 2026-04-26 01:01:50.972498
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+492500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:01:07.977581 7245.035683161483
+Tiempo total transcurrido 10:11:24.649349
+Hora del sistema 2026-04-26 01:02:58.950079
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+4200500
+Número y fracción de estados no visitados 195 0.8024691358024691
+Duración del procesamiento de stream 0:10:40.017287 6563.103974408741
+Tiempo total transcurrido 10:22:04.666636
+Hora del sistema 2026-04-26 01:13:38.967366
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+6200500
+Número y fracción de estados no visitados 187 0.7695473251028807
+Duración del procesamiento de stream 0:15:21.019612 6732.212777245399
+Tiempo total transcurrido 10:37:25.686248
+Hora del sistema 2026-04-26 01:28:59.986978
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+8200500
+Número y fracción de estados no visitados 186 0.7654320987654321
+Duración del procesamiento de stream 0:20:34.230597 6644.220310153273
+Tiempo total transcurrido 10:57:59.916845
+Hora del sistema 2026-04-26 01:49:34.217575
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+4242500
+Número y fracción de estados no visitados 175 0.720164609053498
+Duración del procesamiento de stream 0:10:33.460459 6697.339888739606
+Tiempo total transcurrido 11:08:33.377304
+Hora del sistema 2026-04-26 02:00:07.678034
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+6262500
+Número y fracción de estados no visitados 167 0.6872427983539094
+Duración del procesamiento de stream 0:15:24.231188 6775.902048438556
+Tiempo total transcurrido 11:23:57.608492
+Hora del sistema 2026-04-26 02:15:31.909222
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+8282500
+Número y fracción de estados no visitados 162 0.6666666666666666
+Duración del procesamiento de stream 0:21:04.795690 6548.4884756367255
+Tiempo total transcurrido 11:45:02.404182
+Hora del sistema 2026-04-26 02:36:36.704912
+Hora estimada de finalización 2026-04-26 04:17:19.905509
+84 7
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+210500
+Número y fracción de estados no visitados 193 0.7942386831275721
+Duración del procesamiento de stream 0:00:30.931534 6805.352751014548
+Tiempo total transcurrido 11:45:33.335716
+Hora del sistema 2026-04-26 02:37:07.636446
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+310500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:00:43.354995 7161.804539476939
+Tiempo total transcurrido 11:46:16.690711
+Hora del sistema 2026-04-26 02:37:50.991441
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+410500
+Número y fracción de estados no visitados 180 0.7407407407407407
+Duración del procesamiento de stream 0:00:58.471453 7020.519910801601
+Tiempo total transcurrido 11:47:15.162164
+Hora del sistema 2026-04-26 02:38:49.462894
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+252500
+Número y fracción de estados no visitados 206 0.8477366255144033
+Duración del procesamiento de stream 0:00:35.704184 7072.000301141177
+Tiempo total transcurrido 11:47:50.866348
+Hora del sistema 2026-04-26 02:39:25.167078
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+372500
+Número y fracción de estados no visitados 191 0.7860082304526749
+Duración del procesamiento de stream 0:00:51.843949 7185.023656280504
+Tiempo total transcurrido 11:48:42.710297
+Hora del sistema 2026-04-26 02:40:17.011027
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+492500
+Número y fracción de estados no visitados 184 0.757201646090535
+Duración del procesamiento de stream 0:01:08.357347 7204.78517108044
+Tiempo total transcurrido 11:49:51.067644
+Hora del sistema 2026-04-26 02:41:25.368374
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 20
+4200500
+Número y fracción de estados no visitados 195 0.8024691358024691
+Duración del procesamiento de stream 0:10:23.176483 6740.466167430776
+Tiempo total transcurrido 12:00:14.244127
+Hora del sistema 2026-04-26 02:51:48.544857
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 30
+6200500
+Número y fracción de estados no visitados 187 0.7695473251028807
+Duración del procesamiento de stream 0:15:21.816981 6726.389432828207
+Tiempo total transcurrido 12:15:36.061108
+Hora del sistema 2026-04-26 03:07:10.361838
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 0 
+ Número de cambios: 40
+8200500
+Número y fracción de estados no visitados 186 0.7654320987654321
+Duración del procesamiento de stream 0:20:06.141197 6798.955230446374
+Tiempo total transcurrido 12:35:42.202305
+Hora del sistema 2026-04-26 03:27:16.503035
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 20
+4242500
+Número y fracción de estados no visitados 175 0.720164609053498
+Duración del procesamiento de stream 0:09:28.351802 7464.566814200054
+Tiempo total transcurrido 12:45:10.554107
+Hora del sistema 2026-04-26 03:36:44.854837
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 30
+6262500
+Número y fracción de estados no visitados 167 0.6872427983539094
+Duración del procesamiento de stream 0:13:53.429781 7514.130335594523
+Tiempo total transcurrido 12:59:03.983888
+Hora del sistema 2026-04-26 03:50:38.284618
+Semilla: 6 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.1 
+ Duración del concepto estable: 100000 
+ Duración del cambio: 1000 
+ Número de cambios: 40
+8282500
+Número y fracción de estados no visitados 162 0.6666666666666666
+Duración del procesamiento de stream 0:17:50.776375 7735.041782183512
+Tiempo total transcurrido 13:16:54.760263
+Hora del sistema 2026-04-26 04:08:29.060993
+Hora estimada de finalización 2026-04-26 04:08:29.060993
