@@ -21,7 +21,7 @@ valid_delay=500
 durationChange=0
 durationStableConcept=5000
 apparentDelay=durationChange+valid_delay
-driftsList=[20]
+driftsList=np.arange(5,105,5)
 print(driftsList, flush=True)
 
 generator=streamGen.GenericChangeGenerator(valid_delay=apparentDelay, number_of_drifts=10, duration_change=durationChange, instance_random_seed=3, duration_stable_concept=durationStableConcept)

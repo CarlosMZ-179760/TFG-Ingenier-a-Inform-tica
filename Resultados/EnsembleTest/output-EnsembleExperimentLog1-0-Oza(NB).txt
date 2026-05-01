@@ -1,0 +1,43 @@
+Hora de inicio 2026-05-01 17:05:37.077871
+Semilla: 1 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 10 
+Retreaso aceptable: 500
+Nuevos elementos de entrenamiento en la iteración (120500, 1)
+Número y fracción de estados no visitados 108 1.0
+[11000, 23000, 35000, 47000, 59000, 71000, 83000, 95000, 107000, 119000] [2558, 11507, 12128, 23414, 24222, 35528, 36508, 40296, 47531, 48108, 59454, 60881, 71412, 72362, 83564, 84577, 95435, 96313, 107538, 109279, 110199, 119545]
+DriftDetectionMetrics(fp=7, tp=15, fn=0, precision=0.6818181818181818, recall=1.0, episode_recall=1.0, f1=0.8108108108108109, mdt=np.float64(492.8), far=0.058091286307053944, ar=0.1825726141078838, n_episodes=10, n_alarms=22)
+Duración del procesamiento de stream 0:00:23.978917 17738.93760104202
+Duración de test: 0:00:06.792966
+Tiempo total transcurrido 0:00:23.978917
+Hora del sistema 2026-05-01 17:06:01.056788
+Semilla: 1 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20 
+Retreaso aceptable: 500
+Nuevos elementos de entrenamiento en la iteración (120000, 1)
+Número y fracción de estados no visitados 108 1.0
+[11000, 23000, 35000, 47000, 59000, 71000, 83000, 95000, 107000, 119000, 131000, 143000, 155000, 167000, 179000, 191000, 203000, 215000, 227000, 239000] [2557, 11507, 12090, 23414, 23991, 35528, 36342, 40287, 41333, 47507, 48006, 50349, 50375, 50446, 59466, 60883, 64150, 64615, 71472, 72003, 72372, 72551, 83567, 83985, 85155, 85588, 95435, 96155, 107538, 108014, 110192, 110362, 111982, 119526, 120915, 131523, 132917, 134929, 143542, 144208, 145851, 146954, 155555, 167438, 167934, 179411, 180355, 191604, 193866, 197089, 203533, 203993, 215562, 216068, 216651, 227748, 233547, 239435, 240031]
+DriftDetectionMetrics(fp=24, tp=35, fn=0, precision=0.5932203389830508, recall=1.0, episode_recall=1.0, f1=0.7446808510638298, mdt=np.float64(515.55), far=0.0997920997920998, ar=0.24532224532224534, n_episodes=20, n_alarms=59)
+Duración del procesamiento de stream 0:00:29.339071 18443.30810830708
+Duración de test: 0:00:13.039960
+Tiempo total transcurrido 0:00:53.317988
+Hora del sistema 2026-05-01 17:06:30.395859
+Semilla: 1 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 30 
+Retreaso aceptable: 500
+Nuevos elementos de entrenamiento en la iteración (120000, 1)
+Número y fracción de estados no visitados 108 1.0

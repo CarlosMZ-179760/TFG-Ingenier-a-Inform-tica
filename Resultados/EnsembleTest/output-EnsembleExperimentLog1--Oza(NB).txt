@@ -1,0 +1,26 @@
+Hora de inicio 2026-05-01 17:19:47.977817
+Semilla: 1 
+ Tasa de error baja: 0.2 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 10 
+Retreaso aceptable: 500
+Nuevos elementos de entrenamiento en la iteración (120500, 1)
+Número y fracción de estados no visitados 108 1.0
+[11000, 23000, 35000, 47000, 59000, 71000, 83000, 95000, 107000, 119000] [457, 8016, 11329, 12113, 23633, 24288, 28871, 35527, 36369, 47430, 48099, 59627, 61142, 71510, 75261, 83595, 84491, 95642, 98169, 107658, 109390, 119508]
+DriftDetectionMetrics(fp=7, tp=15, fn=0, precision=0.6818181818181818, recall=1.0, episode_recall=1.0, f1=0.8108108108108109, mdt=np.float64(545.9), far=0.058091286307053944, ar=0.1825726141078838, n_episodes=10, n_alarms=22)
+Duración del procesamiento de stream 0:00:24.806668 12560.8746371549
+Duración de test: 0:00:09.593281
+Tiempo total transcurrido 0:00:24.806668Hora del sistema 2026-05-01 17:20:07.243279
+Semilla: 1 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20 
+Retreaso aceptable: 500
+Nuevos elementos de entrenamiento en la iteración (120000, 1)
+Número y fracción de estados no visitados 108 1.0

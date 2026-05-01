@@ -1,0 +1,42 @@
+Hora de inicio 2026-05-01 17:12:40.832930
+Semilla: 7 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 10 
+Retreaso aceptable: 500
+Nuevos elementos de entrenamiento en la iteración (120500, 1)
+Número y fracción de estados no visitados 108 1.0
+[11000, 23000, 35000, 47000, 59000, 71000, 83000, 95000, 107000, 119000] [11630, 23574, 35552, 47580, 59414, 71592, 83477, 95545, 107631, 119567]
+DriftDetectionMetrics(fp=0, tp=10, fn=0, precision=1.0, recall=1.0, episode_recall=1.0, f1=1.0, mdt=np.float64(556.2), far=0.0, ar=0.08298755186721991, n_episodes=10, n_alarms=10)
+Duración del procesamiento de stream 0:00:16.399997 18386.20677448562
+Duración de test: 0:00:06.553826
+Tiempo total transcurrido 0:00:16.399997
+Hora del sistema 2026-05-01 17:12:57.232927
+Semilla: 7 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 20 
+Retreaso aceptable: 500
+Nuevos elementos de entrenamiento en la iteración (120000, 1)
+Número y fracción de estados no visitados 108 1.0
+[11000, 23000, 35000, 47000, 59000, 71000, 83000, 95000, 107000, 119000, 131000, 143000, 155000, 167000, 179000, 191000, 203000, 215000, 227000, 239000] [11592, 23545, 35490, 37535, 47514, 49786, 59376, 71578, 83403, 85805, 95469, 107614, 119493, 121578, 131502, 133230, 143520, 145506, 147163, 155497, 157751, 167476, 169836, 179433, 180553, 191464, 203485, 215446, 227381, 229929, 239472, 240208]
+DriftDetectionMetrics(fp=11, tp=21, fn=0, precision=0.65625, recall=1.0, episode_recall=1.0, f1=0.7924528301886793, mdt=np.float64(487.5), far=0.04573804573804574, ar=0.13305613305613306, n_episodes=20, n_alarms=32)
+Duración del procesamiento de stream 0:00:22.711870 18834.269160266475
+Duración de test: 0:00:12.769277
+Tiempo total transcurrido 0:00:39.111867
+Hora del sistema 2026-05-01 17:13:19.944797
+Semilla: 7 
+ Tasa de error baja: 0.01 
+ Aumento de la tasa de error: 0.3 
+ Ruido del concepto estable: 0.0 
+ Duración del concepto estable: 5000 
+ Duración del cambio: 1000 
+ Número de cambios: 30 
+Retreaso aceptable: 500
+Nuevos elementos de entrenamiento en la iteración (120000, 1)
