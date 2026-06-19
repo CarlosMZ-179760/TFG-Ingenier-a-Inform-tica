@@ -28,7 +28,7 @@ import gc
 
 #from moa.streams.generators.cd import GenericChangeGenerator as MOA_GenericChangeGenerator
 seedStr=sys.argv[1]
-repsStr=5
+repsStr=3
 startSeed=int(seedStr)
 reps=int(repsStr)
 driftList=[10,20,30,40]#np.arange(20, 30,10)
@@ -37,11 +37,15 @@ low_error_rate=np.array([0.01,
                          0.2])
 errorRateIndex=sys.argv[2]
 selectedErrorRate=np.array([low_error_rate[int(errorRateIndex)]])
+#MOCIndex=sys.argv[2]
 magnitude_of_change=np.array([0.3,
                               0.05])
+selectedMOC=magnitude_of_change#np.array([magnitude_of_change[int(MOCIndex)]])
+#NSCIndex=sys.argv[3]
 noise_stable_concept=np.array([0
                                ,0.1
                                ])
+selectedNSC=noise_stable_concept#np.array([noise_stable_concept[int(NSCIndex)]])
 
 
 
@@ -52,21 +56,22 @@ duration_of_change=np.array([1000,
                              0])
 valid_delays=np.array([500])
 
-resultspath = Path("Resultados/EnsembleMaxLogs/Rendimiento")
+resultspath = Path("Resultados/Ensemble/Rendimiento")
 resultspath.mkdir(parents=True, exist_ok=True)
-dictspath = Path("Resultados/EnsembleMaxLogs/Diccionarios")
+dictspath = Path("Resultados/Ensemble/Diccionarios")
 dictspath.mkdir(parents=True, exist_ok=True)
-freqspath = Path("Resultados/EnsembleMaxLogs/Frecuencias")
+freqspath = Path("Resultados/Ensemble/Frecuencias")
 freqspath.mkdir(parents=True, exist_ok=True)
-logspath = Path("Resultados/EnsembleMaxLogs/Logs")
+logspath = Path("Resultados/Ensemble/Logs")
 logspath.mkdir(parents=True, exist_ok=True)
 
 class Logger(object):
     def __init__(self):
         self.terminal = sys.stdout
-        self.log = open('Resultados/EnsembleTest/output-EnsembleExperimentLog'+seedStr
+        self.log = open('Resultados/Ensemble/output-EnsembleExperimentLog'
+                        +sys.argv[1]
                         +"-"
-                        +''
+                        +sys.argv[2]
                         +'-Oza(NB).txt','wt')
    
     def write(self, message):
@@ -95,8 +100,8 @@ fileNumber=0
 start=datetime.datetime.now()
 end=start
 print("Hora de inicio", start)
-largeIters=len(seeds)*len(selectedErrorRate)*len(magnitude_of_change)*len(noise_stable_concept)
-for stream_head in itertools.product(seeds,selectedErrorRate, magnitude_of_change, noise_stable_concept):
+largeIters=len(seeds)*len(selectedErrorRate)*len(selectedMOC)*len(selectedNSC)
+for stream_head in itertools.product(seeds,selectedErrorRate, selectedMOC, selectedNSC):
     largeIterCounter+=1
     #print(k,j)#, flush=True)
     for stream_tail in itertools.product(stable_concept_duration, duration_of_change):
@@ -114,11 +119,17 @@ for stream_head in itertools.product(seeds,selectedErrorRate, magnitude_of_chang
 
             maxDrifts=max(driftList)
             apparentDelay=stream[5]+valid_delay
-            detector = ensemble.EnsembleDetector(valid_delay=apparentDelay)
+            detector = ensemble.EnsembleDetector(valid_delay=apparentDelay)#, detectorDict=[("ADWIN",{}),
+            #               ("CUSUM",{}),
+            #               ("DDM",{}),
+            #               ("EDDM",{}),
+            #               ("HDDMAverage",{}),
+            #               ("HDDMWeighted",{})]
+            #)
             logCols=tuple(detector.baseDetectorNameList)+tuple(["Prediction","Ground-Truth"])
             #runningDrifts=0
             
-            datasetGenerator=streamGen.GenericChangeGenerator(valid_delay=apparentDelay, number_of_drifts=maxDrifts, duration_change=stream[5], instance_random_seed=stream[0], duration_stable_concept=stream[4])
+            datasetGenerator=streamGen.GenericChangeGenerator(noise_stable_concept=stream[3],noise_change=stream[3],valid_delay=apparentDelay, number_of_drifts=maxDrifts, duration_change=stream[5], instance_random_seed=stream[0], duration_stable_concept=stream[4])
             for drifts in driftList:
                 dfIndex=stream+tuple([drifts,valid_delay])
                 fileNumber+=1
@@ -158,7 +169,7 @@ for stream_head in itertools.product(seeds,selectedErrorRate, magnitude_of_chang
                 detector.trainClassifier()
                 #detector = ensemble.EnsembleDetector(validDelay=valid_delay)
                 #retrain=True
-                testGenerator=streamGen.GenericChangeGenerator(valid_delay=apparentDelay,instance_random_seed=stream[0]+reps, low_error_level=stream[1], incr_error_level=stream[2], noise_stable_concept=stream[3], duration_stable_concept=stream[4], duration_change=stream[5], number_of_drifts=drifts)
+                testGenerator=streamGen.GenericChangeGenerator(valid_delay=apparentDelay,instance_random_seed=stream[0]+reps, low_error_level=stream[1], incr_error_level=stream[2], noise_stable_concept=stream[3],noise_change=stream[3] ,duration_stable_concept=stream[4], duration_change=stream[5], number_of_drifts=drifts)
                 #detector = detectors.ensemble_detector.EnsembleDetector(dataset=trainingStream, valid_delay=apparentDelay, datasetSize=2*(drifts+1)*(stream[4]+stream[5])-stream[5]+apparentDelay)
                 #detector.pretrain()
                 #detector.describe_drifts()

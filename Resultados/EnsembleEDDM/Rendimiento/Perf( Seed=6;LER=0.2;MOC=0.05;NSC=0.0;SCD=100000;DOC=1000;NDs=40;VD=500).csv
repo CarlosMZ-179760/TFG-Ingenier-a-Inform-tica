@@ -1,0 +1,2 @@
+Seed,Low error rate,Magnitude of change,Noise level,Stable concept duration,Duration of change,Drifts,Valid Delay,fp,tp,fn,precision,recall,episode_recall,f1,mdt,far,ar,n_episodes,n_alarms
+6,0.2,0.05,0.0,100000,1000,40,500,142,11,29,0.0718954248366013,0.275,0.275,0.11398963730569948,1200.8181818181818,0.01757316997710538,0.0189344718767403,40,153
